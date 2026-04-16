@@ -1,15 +1,15 @@
-Turbo Scripts
+# Turbo Scripts
 
 A collection of simple everyday Linux scripts designed to automate common tasks and system tweaks.
 
 This project is created for personal use and learning, but may also be useful for other Linux users.
 
-Purpose
+# Purpose
 
 Turbo Scripts contains small, practical utilities that solve specific problems in a fast and minimal way.
 They are focused on real-world usage inside the terminal and Linux environment.
 
-Content
+# Content
 
 The repository may include:
 
